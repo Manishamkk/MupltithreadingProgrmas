@@ -1,4 +1,6 @@
-package com.threads;
+package com.interfaces;
+
+
 
 public class Task implements Runnable {
 
@@ -17,3 +19,4 @@ public class Task implements Runnable {
 
 	
 }
+
